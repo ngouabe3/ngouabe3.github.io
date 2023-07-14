@@ -1,0 +1,12 @@
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link{
+    background: transparent!important;
+    border: 1px solid white!important;
+    color: #ffc107!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 500!important;
+}
+.navbar-dark .navbar-nav .drop{
+    color: #fff!important;
+}
